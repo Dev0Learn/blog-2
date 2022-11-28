@@ -1,0 +1,4 @@
+[submodule "sushmanthblog/public"]
+	path = sushmanthblog/public
+	url = https://github.com/sushmanthreddy/sushmanthreddy.github.io.git
+	branch = main
