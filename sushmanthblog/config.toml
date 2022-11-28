@@ -20,7 +20,7 @@ googleAnalytics = ""
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "Hi, welcome to Susmanth's blog"
+    description = "Hi, welcome to Sushmanth's blog"
 
     showReadMore = false
 
